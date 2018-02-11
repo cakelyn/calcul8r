@@ -165,7 +165,7 @@ class App extends Component {
   render() {
 
     return (
-      <div className="App">
+      <div className="parent">
         <div className="container">
           <div className="stripes">
             <div className="screen">{this.state.screen}</div>

@@ -1,4 +1,9 @@
+@media only screen and (max-device-width: 812px) {
+  body {
+    margin: 0 auto;
+  }
+}
+
 body {
-  margin-left: 40%;
-  margin-right: 40%;
+  margin: 0 auto;
 }
